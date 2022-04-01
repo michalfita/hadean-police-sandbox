@@ -1,5 +1,6 @@
 version: "1.0"
 invalidStatus: "failed"
 titleRule:
-        - startsWithPattern: ["^\[HT?D-\d+\] .*$"]
+    startsWithPattern:
+        - "^\[HT?D-\d+\] .*$"
 
