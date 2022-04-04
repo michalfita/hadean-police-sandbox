@@ -2,4 +2,5 @@ version: "1.0"
 invalidStatus: "failed"
 titleRule:
     validPatterns:
-         - /^\[(HD|HTD|EO|HSUP)-\d+\] .*$/
+        - /^\[(HD|HTD|EO|HSUP)-\d+\] .*$/
+
