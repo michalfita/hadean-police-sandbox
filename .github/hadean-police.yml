@@ -1,6 +1,5 @@
 version: "1.0"
 invalidStatus: "failed"
 titleRule:
-    startsWithPattern:
-        - /^\[HT?D-\d+\] .*$/
-
+    validPatterns:
+         - /^\[(HD|HTD|EO|HSUP)-\d+\] .*$/
